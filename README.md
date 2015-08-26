@@ -1,5 +1,10 @@
+对这个神插件做一些本地化修改，比如生成姓名、地址、电话号码等。
+
+---
+
 Content Generator for Sketch
 ============================
+
 
 Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
 
